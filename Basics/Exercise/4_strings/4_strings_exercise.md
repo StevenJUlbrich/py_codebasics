@@ -1,4 +1,4 @@
-## Exercise: String in Python
+# Exercise: String in Python
 
 1. Create 3 variables to store street, city and country, now create address variable to
 store entire address. Use two ways of creating this variable, one using + operator and the other using f-string.
